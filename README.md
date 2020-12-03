@@ -1,3 +1,5 @@
-# README
+# Ansible inventory skeletor
 
-[//]: # ( vim: set syn=markdown sw=2 ts=2 noet : )
+Template hierarchy for Ansible inventories
+
+[//]: # ( vim: set ft=markdown syn=markdown sw=2 ts=2 noet : )
