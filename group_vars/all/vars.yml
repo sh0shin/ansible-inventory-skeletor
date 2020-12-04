@@ -1,0 +1,7 @@
+---
+
+groupvar1: yes
+groupvar2: '{{ vault_groupvar2 }}'
+
+# vim: set ft=yaml.ansible sw=2 ts=2 et colorcolumn=160 :
+# eof
