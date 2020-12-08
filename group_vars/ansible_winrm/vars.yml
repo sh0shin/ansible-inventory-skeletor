@@ -1,0 +1,10 @@
+---
+
+ansible_connection: winrm
+ansible_winrm_server_cert_validation: ignore
+
+ansible_user: ansible
+ansible_password: '{{ vault_ansible_password }}'
+
+# vim: set ft=yaml.ansible sw=2 ts=2 et colorcolumn=160 :
+# eof
