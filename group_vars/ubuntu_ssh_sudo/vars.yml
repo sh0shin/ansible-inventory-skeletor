@@ -1,0 +1,9 @@
+---
+
+ansible_user: ubuntu
+ansible_connection: ssh
+ansible_port: 22
+
+ansible_become: yes
+ansible_become_user: root
+ansible_become_method: sudo
